@@ -11,5 +11,6 @@ value.MODE.0=Depth Map
 value.MODE.1=True Distance
 option.MODE.comment=Depth map (default) uses the distance parallel with the axis of the camera. True distance uses the actual physical distance.
 
+
 option.INVERT_OUTPUT=Invert
 option.INVERT_OUTPUT.comment=Swap black and white in the final image.
