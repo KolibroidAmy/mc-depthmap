@@ -3,7 +3,7 @@ A simple Minecraft shader that produces a black and white depthmap as its output
 
 ## Installing
 Download latest .zip from the [releases tab](https://github.com/KolibroidAmy/mc-depthmap/releases), and move it to  your shaderpack folder.
-Alternatively, you can just clone this repo directly into the shaderpack folder.
+Alternatively, you can just clone this repo directly in the shaderpack folder.
 
 ## Screenshots
 ![Screenshot_20240707_215902](https://github.com/KolibroidAmy/mc-depthmap/assets/152735803/17b2215d-ac1d-4242-96b9-d6f07f096952)
